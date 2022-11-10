@@ -3,7 +3,7 @@
         <header class="shadow-sm bg-white">
             <nav class="container mx-auto p-4 flex justify-between">
                 <NuxtLink to="/" class="font-bold">Nuxt Dojo</NuxtLink>
-                <!--oh yesssss  Add a comment here for github -->
+                <!--oh yesssss  I believe this is working -->
                 <ul class="flex gap-4">
                     <li>
                         <NuxtLink to="/">Home</NuxtLink>
